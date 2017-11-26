@@ -1,3 +1,3 @@
 <?php
-	echo "Meu primeiro repositorio no gitHub, Hello World!";
+	echo "Github, Ola Mundo!";
 ?>
